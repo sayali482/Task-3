@@ -1,7 +1,3 @@
-
-
-
-
 ---
 
 📘 Project Information – Hangman Game (Python + Tkinter)
